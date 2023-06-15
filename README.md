@@ -5,4 +5,4 @@
 
 ![alt text](/public/images/3.png) 
 
-# INFORMATION
+# INFORMATIONS
